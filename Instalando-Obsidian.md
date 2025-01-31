@@ -1,4 +1,4 @@
-#Instalando Obsidian no Linux (Ubuntu)
+# Instalando Obsidian no Linux (Ubuntu)
 
 Vamos instalar o Obsidian usando o **Flatpak**. Flatpak é um sistema de distribuição de software para Linux que simplifica a instalação e execução de aplicativos, garantindo compatibilidade entre diferentes distribuições.
 
