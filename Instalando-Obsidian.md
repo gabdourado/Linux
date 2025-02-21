@@ -4,7 +4,7 @@ Vamos instalar o Obsidian usando o **Flatpak**. Flatpak é um sistema de distrib
 
 Para instalar o Flatpak basta seguir os seguintes passos:
 
-### 0. Acesse o Terminal
+### 0. Acesse o terminal
 ```scss
 Ctrl + Alt + T
 ```
