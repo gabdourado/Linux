@@ -4,40 +4,40 @@ Vamos instalar o Obsidian usando o **Flatpak**. Flatpak é um sistema de distrib
 
 Para instalar o Flatpak basta seguir os seguintes passos:
 
-0. **Acesse o terminal usando o atalho "Ctrl + Alt + T"**
+### 0. Acesse o Terminal
 ```scss
 Ctrl + Alt + T
 ```
 
-1. **Atualize os pacotes**
+### 1. Atualize os pacotes
 ```bash
 sudo apt update
 ```
 
-2. **Instale o Flatpak**
+### 2. Instale o Flatpak
 ```bash
 sudo apt install flatpak
 ```
 
-3. **Adicione o repositório Flathub (se ainda não o fez)**
+### 3. Adicione o repositório Flathub (se ainda não o fez)
 ```bash
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
 ```
 
-4. **Verificando a versão do Flatpak**
+### 4. Verificando a versão do Flatpak
 ```bash
 flatpak --version
 ```
 
 Agora vamos instalar o **Obsidian**. Para isso, basta seguir os seguintes passos:
 
-0. **Instale o Obsidian**
+### 0. Instale o Obsidian
 ```bash
 flatpak install flathub md.obsidian.Obsidian
 ```
 
-1. **Executar o Obsidian**
+### 1. Execute o Obsidian
 ```bash
 flatpak run md.obsidian.Obsidian
 ```
