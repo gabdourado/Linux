@@ -1,4 +1,4 @@
-# Instalando o MySQL Workbench no Linux
+# Instalando o MySQL Workbench no Linux (Ubuntu)
 
 Vamos instalar, no Linux - Ubuntu -, dois softwares para trabalharmos com banco de dados: o **MySQL** e o **MySQL Workbench**. O **MySQL** é um sistema de gerenciamento de banco de dados relacional que armazena e gerencia dados. O **MySQL Workbench** é uma ferramenta gráfica que facilita a administração e interação com o MySQL, permitindo criar bancos de dados, executar consultas e gerenciar dados de forma visual.
 
